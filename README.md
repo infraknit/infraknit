@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infraknit
-- 👀 I’m interested in technology selling for Datacenter, Smart City, Enterprise, Buildings, Metro Rail & Industries.
-- 💞️ I’m looking to collaborate on our product selling, technology consulting and consortium partnerships.
+- 👀 I’m interested in technology selling for Defense, Datacenter, Smart City, Telecom, Enterprise, Buildings, Metro Rail & Industries.
+- 💞️ I have Products: EMS, NMS, Helpdesk, DCIM, BMS, SCADA, IOT, Analytics.
 - 📫 Reach me on https://infraknit.com or email business@infraknit.com
 
 <!---
